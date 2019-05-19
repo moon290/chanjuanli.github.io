@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Dayiheng Liu"
-excerpt: "About me"
+title: "About me"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,12 @@ redirect_from:
 ---
 i'm [baidu](https://baidu.com).
 
-A data-driven personal website
+Experience
 ======
 1213
 
-#TT 
-=====
-##3123
-###sss
-Site-wide configuration
+
+Interests
 ------
 565
 
