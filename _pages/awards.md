@@ -15,6 +15,6 @@ author_profile: true
 
 5. **Second Prize** of [Microsoft ImagineCup](https://imaginecup.microsoft.com/zh-cn/Events?id=0), 2015
 
-
+6. **Golden Star (计科金星)** of School of Computer Science in Sichuan University (1/370+)
 
 
