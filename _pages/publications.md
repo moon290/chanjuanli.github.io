@@ -13,8 +13,8 @@ Association for Computational Linguistics. **ACL** 2019
 ***Dayiheng Liu***, *Xu Yang, Feng He, Yuanyuan Chen, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 
 
-3. **Ancient-Modern Chinese Translation with a New Large Training Dataset** 
-***Dayiheng Liu**, *Kexin Yang, Qian Qu, Jiancheng Lv*  
+3. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
+***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)      
  
 4. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
