@@ -18,7 +18,7 @@ author_profile: true
 
 6. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Shenyang site), 2015  
 
-7. **2nd Prize** in [Microsoft ImagineCup](https://imaginecup.microsoft.com/zh-cn/Events?id=0) (Game track), 2015  
+7. **2nd Prize** in [Microsoft ImagineCup](https://imaginecup.microsoft.com/zh-cn/Events?id=0) (Game track) in China, 2015  
 
 8. **National Scholarship** for Undergraduate Students (2/370+), 2015  
 
