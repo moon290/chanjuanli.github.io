@@ -13,7 +13,7 @@ My publications can be found [here](https://dayihengliu.github.io/publications/)
 My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
 ([for more...](https://dayihengliu.github.io/more/))  
 
-**Interests:** Natural language generation, including controllable text generation, VAE for text generation, GAN for text generation, text generation in arbitrary order, model architecture for text generation, applications in natural language generation.
+**Interests:** Natural language generation, including controllable text generation, VAE for text generation, GAN for text generation, text generation in arbitrary order, and applications in natural language generation.
 
 Experience
 ------
