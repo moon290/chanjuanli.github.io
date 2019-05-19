@@ -9,6 +9,7 @@ Demos
 ------
 1. **Wechat Applet**: Multi-Modal Chinese Poetry Generation Application (**川小妹**)  
 <img src="/images/cxm.jpg" width = "300" height = "300" alt="Chuanxiaomei" align=center>  
+
 2. **Wechat Applet**: Chinese Ancient-Mordern Translation Application (**AI小翻**)  
 <img src="/images/xiaofan.jpg" width = "300" height = "300" alt="AIxiaofan" align=center>  
 
