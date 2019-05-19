@@ -23,7 +23,9 @@ Experience
 
 + 2017.3 - 2017.8, **Intern**, NexT++, National University of Singapore.
   - Advisor: Prof. Hanwang Zhang
-
+  
++ 2015.6 - 2015.8, **Visitor**, School of Computing, National University of Singapore.
+  
 + 2012.9 - 2015.9, **B.E.**, College of Computer Science, Sichuan University.
   - Ranking: 1/370+
   - Advisor: Prof. Jiancheng Lv
