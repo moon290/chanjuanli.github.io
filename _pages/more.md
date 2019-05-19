@@ -1,20 +1,22 @@
 ---
 permalink: /more/
-title: "More about me"
+title: "News"
 author_profile: true
 ---
 
-# What's news
 
-# Demos
+Demos
+------
 1. **Wechat Applet**: Multi-Modal Chinese Poetry Generation Application (**川小妹**)
-![Alt text](/images/me.jpg)  
+![Chuanxiaomei](/images/cxm.jpg)  
 2. **Wechat Applet**: Chinese Ancient-Mordern Translation Application (**AI小翻**)
-![Alt text](/images/me_small.jpg)  
+![AIxiaofan](/images/xiaofan.jpg)  
 
-# Blog
+Blog
+------
 知乎专栏[《揭开知识库问答KB-QA的面纱》](https://www.zhihu.com/people/liu-da-41-85/columns)(in Chinese)
 
-# Concat
+Concat
+------
 Office: B318, Basic Teaching Building B, Sichuan University, China, 610065
 Email: losinuris@gmail.com
