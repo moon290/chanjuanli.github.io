@@ -19,5 +19,6 @@ Blog
 
 Concat
 ------
-Office: B318, Basic Teaching Building B, Sichuan University, China, 610065
-Email: losinuris@gmail.com
+- Office: B318, Basic Teaching Building B, Sichuan University, China, 610065
+
+- Email: losinuris@gmail.com
