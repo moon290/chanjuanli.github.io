@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-1. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
+1. **TssIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
 Association for Computational Linguistics. **ACL** 2019  
 
