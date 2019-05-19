@@ -1,6 +1,6 @@
 ---
-permalink: /More about me/
-title: "Markdown"
+permalink: /more/
+title: "More about me"
 author_profile: true
 ---
 
