@@ -22,9 +22,11 @@ author_profile: true
 
 8. **National Scholarship** for Undergraduate Students (2/370+), 2015  
 
-9. **1st Prize** in [Mathematical Contest in Modeling for College](https://www.comap.com/undergraduate/contests/mcm/) (MCM) in Sichuan Province, 2014  
+9. **CCF Certified Software Professionals** ([CCF CSP](http://www.cspro.org/)) 430 scores (Top 0.1% in China)
 
-10. **1st Prize** in the 6th "Lanqiao Cup" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2014 
+10. **1st Prize** in [Mathematical Contest in Modeling for College](https://www.comap.com/undergraduate/contests/mcm/) (MCM) in Sichuan Province, 2014  
+
+11. **1st Prize** in the 6th "Lanqiao Cup" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2014 
 
 
 
