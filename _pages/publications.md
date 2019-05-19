@@ -19,7 +19,7 @@ ACM Transactions on Asian and Low-Resource Language Information Processing. **TA
  
 4. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jiancheng Lv, Feng He, Yifan Pu*  
-**arxiv** 2018 [[arXiv]](https://arxiv.org/pdf/1806.08097.pdf)      
+**arXiv** 2018 [[arXiv]](https://arxiv.org/pdf/1806.08097.pdf)      
 
 5. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
