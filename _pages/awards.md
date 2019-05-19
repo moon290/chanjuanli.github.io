@@ -26,7 +26,7 @@ author_profile: true
 
 10. **1st Prize** in [Mathematical Contest in Modeling for College](https://www.comap.com/undergraduate/contests/mcm/) (MCM) in Sichuan Province, 2014  
 
-11. **1st Prize** in the 6th "Lanqiao Cup" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2014 
+11. **1st Prize** in the 6th "[Lanqiao Cup](http://www.lanqiao.org/)" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2014 
 
 
 
