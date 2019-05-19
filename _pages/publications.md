@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 1. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
-*Dayiheng Liu*, Jie Fu, Pengfei Liu, Jiancheng Lv  
-ACL 2019  
+***Dayiheng Liu**, Jie Fu, Pengfei Liu, Jiancheng Lv* 
+Association for Computational Linguistics. **ACL** 2019  
 
 2. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
-**Dayiheng Liu**, Xu Yang, Feng He, Yuanyuan Chen, Jiancheng Lv  
-TALLIP 2019  
+***Dayiheng Liu**, Xu Yang, Feng He, Yuanyuan Chen, Jiancheng Lv*  
+ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019  
 
 3. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 **Dayiheng Liu**, Kexin Yang, Qian Qu, Jiancheng Lv  
