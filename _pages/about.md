@@ -13,15 +13,15 @@ My name is **Dayiheng Liu**. I'm a Ph.D. student in the Computer Science Departm
 
 Experience
 ------
-+ 2015.10 - present, **Ph.D.**, College of Computer Science, Sichuan University.
-   3 + 2 + 3 Program
-   Advisor: Prof. Jiancheng Lv
+- 2015.10 - present, **Ph.D.**, College of Computer Science, Sichuan University.
+  - 3 + 2 + 3 Program
+  - Advisor: Prof. Jiancheng Lv
 
 + 2017.3 - 2017.8, **Intern**, NexT++, National University of Singapore.
-  Advisor: Prof. Hanwang Zhang
+  - Advisor: Prof. Hanwang Zhang
 
 + 2012.9 - 2015.9, **B.E.**, College of Computer Science, Sichuan University.
-   Ranking: 1/370+
-   Advisor: Prof. Jiancheng Lv
+  - Ranking: 1/370+
+  - Advisor: Prof. Jiancheng Lv
    
 
