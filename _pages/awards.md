@@ -14,9 +14,9 @@ author_profile: true
 
 4. **Outstanding Award** (1st place) in The 8th China (Chengdu) International Software Design & Application Competition (APP track), 2015   
 
-5. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Changchun site), 2015  
+5. **Silver Medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Changchun site), 2015  
 
-6. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Shenyang site), 2015  
+6. **Silver Medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Shenyang site), 2015  
 
 7. **2nd Prize** in [Microsoft ImagineCup](https://imaginecup.microsoft.com/zh-cn/Events?id=0) (Game track) in China, 2015  
 
