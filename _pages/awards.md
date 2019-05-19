@@ -12,7 +12,7 @@ author_profile: true
 
 3. **1st Golden Star (计科金星)** in School of Computer Science, Sichuan University (1/370+), 2016  
 
-4. **Outstanding Award** (1st place) in The 8th China (Chengdu) International Software Design & Application Competition (APP track)   
+4. **Outstanding Award** (1st place) in The 8th China (Chengdu) International Software Design & Application Competition (APP track), 2015   
 
 5. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Changchun site), 2015  
 
