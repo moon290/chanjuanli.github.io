@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-1.TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search  
+- TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search  
 **Dayiheng Liu**, Jie Fu, Pengfei Liu, Jiancheng Lv  
 *ACL 2019*  
 
-2.**µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**
+- **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**
 **Dayiheng Liu**, Xu Yang, Feng He, Yuanyuan Chen, Jiancheng Lv
 TALLIP 2019
 
