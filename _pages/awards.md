@@ -10,21 +10,21 @@ author_profile: true
 
 2. **Guanghua Scholarship** for Ph.D. student, 2018  
 
-3. **1st Golden Star (计科金星)** of School of Computer Science in Sichuan University (1/370+), 2016  
+3. **1st Golden Star (计科金星)** in School of Computer Science, Sichuan University (1/370+), 2016  
 
 4. **Outstanding Award** (1st place) in The 8th China (Chengdu) International Software Design & Application Competition (APP track)   
 
-5. **Silver medal** of [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Changchun site), 2015  
+5. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Changchun site), 2015  
 
-6. **Silver medal** of [ACM-ICPC](https://icpc.baylor.edu/) Asian rRegional Contest (Shenyang site), 2015  
+6. **Silver medal** in [ACM-ICPC](https://icpc.baylor.edu/) Asian Regional Contest (Shenyang site), 2015  
 
 7. **2nd Prize** in [Microsoft ImagineCup](https://imaginecup.microsoft.com/zh-cn/Events?id=0) (Game track), 2015  
 
 8. **National Scholarship** for Undergraduate Students (2/370+), 2015  
 
-9. **1st Prize** of [Mathematical Contest in Modeling for College](https://www.comap.com/undergraduate/contests/mcm/) (MCM) in Sichuan Province, 2014  
+9. **1st Prize** in [Mathematical Contest in Modeling for College](https://www.comap.com/undergraduate/contests/mcm/) (MCM) in Sichuan Province, 2014  
 
-10.**1st Prize** in the 6th "Lanqiao Cup" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2015  
+10.**1st Prize** in the 6th "Lanqiao Cup" National Software Professional Design and C/C++ Programming Contest, Sichuan Province, 2014 
 
 
 
