@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dayiheng Liu"
 title_separator          : "-"
-name                     : &name "Dayiheng Liu (刘大一恒)"
+name                     : &name "Dayiheng Liu 刘大一恒"
 description              : &description "Phd student in Sichuan University"
 url                      : https://dayihengliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Dayiheng Liu &#10;(刘大一恒)"
   avatar           : "profile.png"
   bio              : "CS Ph.D. @ SCU"
-  location         : "Chengdu China"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pPLQrX4AAAAJ&hl=zh-CN"
