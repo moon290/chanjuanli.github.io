@@ -18,7 +18,7 @@ My awards & honors can be found [here](https://dayihengliu.github.io/awards/).
 Experience
 ------
 - 2015.10 - present, **Ph.D.**, College of Computer Science, Sichuan University (SCU).
-  - [3+2+3 Program](http://gs.scu.edu.cn/newDetail.aspx?ID=1784)(Master-Doctor combind program)
+  - [3+2+3 Program](http://gs.scu.edu.cn/newDetail.aspx?ID=1784) (Master-Doctor combind program)
   - Advisor: Prof. Jiancheng Lv
 
 + 2017.3 - 2017.8, **Intern**, NexT++, National University of Singapore (NUS).
