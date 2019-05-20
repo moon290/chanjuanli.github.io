@@ -10,7 +10,7 @@ author_profile: true
 
 2. **Guanghua Scholarship** for Ph.D. student, 2018  
 
-3. **1st Golden Star (计科金星)** in School of Computer Science, Sichuan University (1/370+), 2016  
+3. **1st Golden Star (计科金星)** in College of Computer Science, Sichuan University (1/370+), 2016  
 
 4. **Outstanding Award** (1st place) in The 8th China (Chengdu) International Software Design & Application Competition (APP track), 2015   
 
