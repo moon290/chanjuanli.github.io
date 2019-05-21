@@ -10,7 +10,7 @@ author_profile: true
 Association for Computational Linguistics. **ACL** 2019  
 
 2. **Revision in Continuous Space: Fine-Grained Control of Text Style Transfer**  
-***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal,Jiancheng Lv*   
+***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
 Submitted to Neural Information Processing Systems . **NeurIPS** 2019 (Under Review)  
 
 3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
