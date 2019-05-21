@@ -18,8 +18,8 @@ ACM Transactions on Asian and Low-Resource Language Information Processing. **TA
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738) [[Demo]](http://translation.dicalab.cn/ancient)      
  
 4. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
-***Dayiheng Liu***, *Jiancheng Lv, Feng He, Yifan Pu*  
-**arXiv** 2018 [[arXiv]](https://arxiv.org/abs/1806.08097)      
+***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
+**arXiv** 2018 [[arXiv]](https://arxiv.org/abs/1806.08097) Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2019 (major revision)     
 
 5. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
