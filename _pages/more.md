@@ -3,7 +3,11 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+[Publications]: May 14, 2019, one paper was accepted by Association for Computational Linguistics (ACL).  
 
+[Publications]: May 06, 2019, one paper was accepted by ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+
+[Publications]: April 15, 2019, one paper was accepted by ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
 
 Demos
 ------
