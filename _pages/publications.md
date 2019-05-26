@@ -27,7 +27,7 @@ Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, **
 
 6. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
-IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018  
+IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018 [[Samples]](https://drive.google.com/open?id=10vAC7MweWwjdWohMe64m2imia1DBCq8o) 
 
 7. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
