@@ -7,7 +7,7 @@ author_profile: true
 
 1. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019  
+Association for Computational Linguistics. **ACL** 2019 [[Code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)  
 
 2. **Revision in Continuous Space: Fine-Grained Control of Text Style Transfer**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
