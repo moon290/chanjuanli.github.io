@@ -35,7 +35,7 @@ International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](http
 
 8. **A Neural Words Encoding Model**  
 ***Dayiheng Liu***, *Jian Cheng Lv, Xiaofeng Qi, Jiangshu Wei*  
-International Joint Conference on Neural Networks. **IJCNN** 2016 [[Poster]](/_data/IJCNN16.pdf)  
+International Joint Conference on Neural Networks. **IJCNN** 2016 [[Poster]](/data/IJCNN16.pdf)  
 
 9. **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
