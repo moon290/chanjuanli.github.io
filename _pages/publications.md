@@ -14,7 +14,7 @@ Association for Computational Linguistics. **ACL** 2019 [[Code]](https://github.
 Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review)  
 
 3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
-***Dayiheng Liu***, *Xu Yang, Feng He, Yuanyuan Chen, Jiancheng Lv*  
+***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
 
 4. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
