@@ -15,7 +15,7 @@ Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Revi
 
 3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
-ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
+ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1905.10072)[[Code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
 
 4. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
