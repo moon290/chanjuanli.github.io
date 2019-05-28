@@ -3,9 +3,9 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
-- May 26, 2019, the code and data of the following paper: **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**(ACL 2019) are available at https://github.com/dayihengliu/Text-Infilling-Gradient-Search.
+- May 26, 2019, the code and data of the following paper: **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search** (ACL 2019) are available at https://github.com/dayihengliu/Text-Infilling-Gradient-Search.
 
-- May 24, 2019, the code and data of the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation**(TALLIP 2019) are available at https://github.com/dayihengliu/Mu-Forcing-VRAE.
+- May 24, 2019, the code and data of the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** (TALLIP 2019) are available at https://github.com/dayihengliu/Mu-Forcing-VRAE.
 
 - May 14, 2019, one paper was accepted by Association for Computational Linguistics (ACL).  
 
