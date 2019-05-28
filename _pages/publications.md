@@ -31,11 +31,11 @@ IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 20
 
 7. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
-International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[demo](https://poem.dicalab.cn/)][[poster]](/talks/IJCNN2018.pdf)
+International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[demo](https://poem.dicalab.cn/)][[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
 
 8. **A Neural Words Encoding Model**  
 ***Dayiheng Liu***, *Jian Cheng Lv, Xiaofeng Qi, Jiangshu Wei*  
-International Joint Conference on Neural Networks. **IJCNN** 2016 [[poster]](/talks/IJCNN16.pdf)  
+International Joint Conference on Neural Networks. **IJCNN** 2016 [[poster]](https://dayihengliu.github.io/talks/IJCNN16.pdf)  
 
 9. **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
