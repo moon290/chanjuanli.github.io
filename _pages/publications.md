@@ -7,11 +7,11 @@ author_profile: true
 
 1. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019 [[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)  
+Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)  
 
 2. **Revision in Continuous Space: Fine-Grained Control of Text Style Transfer**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
-Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review)  
+Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review) [[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) 
 
 3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
@@ -23,7 +23,7 @@ ACM Transactions on Asian and Low-Resource Language Information Processing. **TA
  
 5. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
-Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, **TASLP** 2019 (Major Revision) [[arXiv]](https://arxiv.org/abs/1806.08097)    
+Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, **TASLP** 2019 (Major Revision) [[arXiv]](https://arxiv.org/abs/1806.08097)[[code]](https://github.com/dayihengliu/BFGAN)    
 
 6. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
