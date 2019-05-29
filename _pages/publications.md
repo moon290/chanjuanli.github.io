@@ -27,7 +27,7 @@ Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, **
 
 6. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
-International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[demo](https://poem.dicalab.cn/)][[cite]](https://dayihengliu.github.io/publications/liu18multi.bib)[[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
+International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[cite]](https://dayihengliu.github.io/publications/liu18multi.bib)[[demo](https://poem.dicalab.cn/)][[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
 
 7. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
