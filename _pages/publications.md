@@ -11,7 +11,7 @@ Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.
 
 2. **Revision in Continuous Space: Fine-Grained Control of Text Style Transfer**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
-Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review) [[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) 
+Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review) [[arXiv]](https://arxiv.org/abs/1905.12304)[[cite]](https://dayihengliu.github.io/publications/liu19style.bib)[[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) 
 
 3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
