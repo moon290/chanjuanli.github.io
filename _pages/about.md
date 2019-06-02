@@ -9,6 +9,7 @@ redirect_from:
 ---
 My name is **Dayiheng Liu** (刘大一恒). I'm a Ph.D. student in the College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). 
 
+My CV can be found [here](https://dayihengliu.github.io/DayihengLiu_CV.pdf).
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
 My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
 ([More about me...](https://dayihengliu.github.io/more/))  
