@@ -3,6 +3,10 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- June 24, 2019, I started my internship at NLC group of Microsoft Research Lab – Asia (MSRA).
+
+- June 20, 2019, the dataset of the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** (TALLIP) are available at https://github.com/dayihengliu/a2m_chineseNMT
+
 - May 26, 2019, the code and data of the following paper: **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search** (ACL 2019) are available at https://github.com/dayihengliu/Text-Infilling-Gradient-Search.
 
 - May 24, 2019, the code and data of the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** (TALLIP 2019) are available at https://github.com/dayihengliu/Mu-Forcing-VRAE.
