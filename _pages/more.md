@@ -3,7 +3,7 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
-- June 24, 2019, I started my internship at NLC group of Microsoft Research Lab – Asia (MSRA).
+- June 24, 2019, I started my internship at **NLC group** of **Microsoft Research Lab – Asia** (MSRA).
 
 - June 20, 2019, the dataset of the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** (TALLIP) are available at https://github.com/dayihengliu/a2m_chineseNMT
 
