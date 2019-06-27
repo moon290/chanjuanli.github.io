@@ -18,7 +18,11 @@ My awards & honors can be found [here](https://dayihengliu.github.io/awards/).
 
 Experience
 ------
-- 2015.10 - present, **Ph.D.**, [DICALab](http://dicalab.cn/), Sichuan University (SCU).
++ 2019.6 - present, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
+  - Team leader: Nan Duan
+  - Mentor: Yeyun Gong
+  
++ 2015.10 - present, **Ph.D.**, [DICALab](http://dicalab.cn/), Sichuan University (SCU).
   - [3+2+3 Program](http://gs.scu.edu.cn/newDetail.aspx?ID=1784) (Master-Doctor combind program)
   - Advisor: Prof. Jiancheng Lv
 
