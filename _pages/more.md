@@ -11,11 +11,11 @@ author_profile: true
 
 - May 24, 2019, the code and data of the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** (TALLIP 2019) are available at https://github.com/dayihengliu/Mu-Forcing-VRAE.
 
-- May 14, 2019, one paper was accepted by **Association for Computational Linguistics (ACL)**.  
+- May 14, 2019, one paper was accepted by **Association for Computational Linguistics** (ACL).  
 
-- May 06, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)**.
+- May 06, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP).
 
-- April 15, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)**.
+- April 15, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP).
 
 Demos
 ------
