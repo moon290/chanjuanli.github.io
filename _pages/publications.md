@@ -19,7 +19,7 @@ ACM Transactions on Asian and Low-Resource Language Information Processing. **TA
 
 4. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
-ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[demo]](http://translation.dicalab.cn/ancient)      
+ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[demo]](http://translation.dicalab.cn/ancient)      
  
 5. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
