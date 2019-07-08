@@ -31,7 +31,7 @@ Experience
   
 + 2015.6 - 2015.8, **Visitor**, School of Computing, National University of Singapore (NUS).
   
-+ 2012.9 - 2015.9, **B.E.**, College of Computer Science, Sichuan University.
++ 2012.9 - 2015.9, **B.E.**, College of Computer Science, Sichuan University (SCU).
   - Ranking: 1/370+
   - Advisor: Prof. Jiancheng Lv
    
