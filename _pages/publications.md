@@ -39,7 +39,7 @@ International Joint Conference on Neural Networks. **IJCNN** 2016 [[poster]](htt
 
 9. **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
-**Multimedia Systems** 2019 
+**Multimedia Systems** 2019 [[arXiv]](https://arxiv.org/pdf/1906.03870.pdf)
 
 10. **Method to Improve the Performance of Restricted Boltzmann Machines**  
 *Jing Yin, Qingyu Mao, **Dayiheng Liu**, Yong Xu, Jiancheng Lv*  
