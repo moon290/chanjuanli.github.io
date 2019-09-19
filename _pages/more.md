@@ -3,19 +3,21 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Sep 10, 2019, the following paper: **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation** was accepted by **IEEE/ACM Transactions on Audio, Speech, and Language Processing** (TASLP 2019).  
+
 - June 24, 2019, I started my internship at **NLC group** of **Microsoft Research Lab – Asia** (MSRA).
 
-- June 20, 2019, the dataset of the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** (TALLIP) are available at [here](https://github.com/dayihengliu/a2m_chineseNMT).
+- June 20, 2019, the dataset of the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** (TALLIP 2019) are available at [here](https://github.com/dayihengliu/a2m_chineseNMT).
 
 - May 26, 2019, the code and data of the following paper: **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search** (ACL 2019) are available at [here](https://github.com/dayihengliu/Text-Infilling-Gradient-Search).
 
 - May 24, 2019, the code and data of the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** (TALLIP 2019) are available at [here](https://github.com/dayihengliu/Mu-Forcing-VRAE).
 
-- May 14, 2019, one paper was accepted by **Association for Computational Linguistics** (ACL).  
+- May 14, 2019, the following paper: **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search** was accepted by **Association for Computational Linguistics** (ACL 2019).  
 
-- May 06, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP).
+- May 06, 2019, the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
 
-- April 15, 2019, one paper was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP).
+- April 15, 2019, the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** was accepted by **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
 
 Demos
 ------
