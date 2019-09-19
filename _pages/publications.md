@@ -13,18 +13,18 @@ Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
 Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Review) [[arXiv]](https://arxiv.org/abs/1905.12304)[[cite]](https://dayihengliu.github.io/publications/liu19style.bib)[[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) 
 
-3. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
+3. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
+***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[code]](https://github.com/dayihengliu/BFGAN)  
+
+4. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1905.10072)[[cite]](https://dayihengliu.github.io/publications/liu19vae.bib)[[code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
 
-4. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
+5. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[demo]](http://translation.dicalab.cn/ancient)      
- 
-5. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
-***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
-Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, **TASLP** 2019 (Major Revision) [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[code]](https://github.com/dayihengliu/BFGAN)    
-
+   
 6. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
 International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[cite]](https://dayihengliu.github.io/publications/liu18multi.bib)[[demo](https://poem.dicalab.cn/)][[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
