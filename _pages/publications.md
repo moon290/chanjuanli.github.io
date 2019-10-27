@@ -18,7 +18,7 @@ Submitted to Neural Information Processing Systems. **NeurIPS** 2019 (Under Revi
 
 4. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing, **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[code]](https://github.com/dayihengliu/BFGAN)  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[code]](https://github.com/dayihengliu/BFGAN)  
 
 5. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
