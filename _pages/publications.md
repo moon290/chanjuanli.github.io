@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. **Deep Poetry: A Chinese Classical Poetry Generation System**  
-*Yusen Liu, **Dayiheng Liu**\* and Jiancheng Lv* (equal contribution)  
+*Yusen Liu, **Dayiheng Liu**\* (equal contribution) and Jiancheng Lv*  
  Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020
  
 2. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
