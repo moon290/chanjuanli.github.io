@@ -25,7 +25,7 @@ author_profile: true
 
 Demos
 ------
-1. **Wechat Applet**: Multi-Modal Chinese Poetry Generation Application (**川小妹**)  
+1. **Wechat Applet**: Multi-Modal Chinese Poetry Generation Application (**川小妹**, AAAI-20 demonstrate system)  
 ![Chuanxiaomei](/images/cxm_300.jpg)  
 
 2. **Wechat Applet**: Chinese Ancient-Mordern Translation Application (**AI小翻**)  
