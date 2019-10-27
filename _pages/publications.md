@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **Deep Poetry: A Chinese Classical Poetry Generation System** 
+1. **Deep Poetry: A Chinese Classical Poetry Generation System**  
 *Yusen Liu, **Dayiheng Liu**\* and Jiancheng Lv* (equal contribution)
 **AAAI** 2020 Demonstrations Program
  
