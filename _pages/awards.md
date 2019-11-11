@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. "**Academic Star**" Award of Sichuan University, 2019
 
-2. **National Scholarship** for Phd Students, 2019
+2. **National Scholarship** for Ph.D. Students, 2019
 
 3. [**Tang Lixing Scholarship**](https://baike.baidu.com/item/%E5%94%90%E7%AB%8B%E6%96%B0%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91) (Only 60 students in the whole school per year, Long-term Scolarship, 2018~Present)  
 
