@@ -9,7 +9,7 @@ author_profile: true
 
 - Oct 25, 2019, the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** was accepted to the **AAAI-20 Demonstrations Program**. 
 
-- Oct 10, 2019, I got the **National Scholarship** for Phd Students.  
+- Oct 10, 2019, I got the **National Scholarship** for Ph.D. Students.  
 
 - Sep 10, 2019, the following paper: **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation** was accepted to the **IEEE/ACM Transactions on Audio, Speech, and Language Processing** (TASLP 2019).  
 
