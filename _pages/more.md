@@ -3,6 +3,10 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Nov 11, 2019, the following paper: **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning** was accepted to the **AAAI-20**. 
+
+- Nov 04, 2019, I got the "**Academic Star**" Award of Sichuan University
+
 - Oct 25, 2019, the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** was accepted to the **AAAI-20 Demonstrations Program**. 
 
 - Oct 10, 2019, I got the **National Scholarship** for Phd Students.  
