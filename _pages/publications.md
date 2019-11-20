@@ -10,7 +10,7 @@ Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXi
 
 2. **Deep Poetry: A Chinese Classical Poetry Generation System**  
 *Yusen Liu, **Dayiheng Liu**\* (equal contribution), Jiancheng Lv*  
- Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020
+ Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1911.08212)[[video]](https://youtu.be/jD1R_u9TA3M)
  
 3. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
