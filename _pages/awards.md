@@ -4,7 +4,7 @@ title: "Awards & Honors (selected)"
 permalink: /awards/
 author_profile: true
 ---
-1. "**Academic Star**" Award of Sichuan University, 2019
+1. "**Academic Star**" Award of Sichuan University, 2019 (Only 10 students in the whole school per year)
 
 2. **National Scholarship** for Ph.D. Students, 2019
 
