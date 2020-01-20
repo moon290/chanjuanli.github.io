@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
-*Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\*(equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*
+*Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\* (equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*
 [[arXiv]](https://arxiv.org/abs/2001.04063)
 
 2. **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**  
