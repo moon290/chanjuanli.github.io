@@ -38,11 +38,11 @@ International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](http
 
 9. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
-IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018 [[samples]](https://drive.google.com/open?id=10vAC7MweWwjdWohMe64m2imia1DBCq8o) 
+IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018 [[paper]](https://ieeexplore.ieee.org/document/8482485)[[samples]](https://drive.google.com/open?id=10vAC7MweWwjdWohMe64m2imia1DBCq8o) 
 
 10. **A Neural Words Encoding Model**  
 ***Dayiheng Liu***, *Jian Cheng Lv, Xiaofeng Qi, Jiangshu Wei*  
-International Joint Conference on Neural Networks. **IJCNN** 2016 [[poster]](https://dayihengliu.github.io/talks/IJCNN16.pdf)  
+International Joint Conference on Neural Networks. **IJCNN** 2016 [[paper]](https://ieeexplore.ieee.org/document/7727245)[[poster]](https://dayihengliu.github.io/talks/IJCNN16.pdf)  
 
 11. **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
@@ -50,6 +50,6 @@ International Joint Conference on Neural Networks. **IJCNN** 2016 [[poster]](htt
 
 12. **Method to Improve the Performance of Restricted Boltzmann Machines**  
 *Jing Yin, Qingyu Mao, **Dayiheng Liu**, Yong Xu, Jiancheng Lv*  
-International Symposium on Neural Networks, **ISNN** 2018  
+International Symposium on Neural Networks, **ISNN** 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_14) 
 
 
