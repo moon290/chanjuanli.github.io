@@ -17,7 +17,7 @@ Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXi
  Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1911.08212)[[video]](https://youtu.be/jD1R_u9TA3M)[[poster]](https://dayihengliu.github.io/talks/AAAI20Demo.pdf)
  
 4. **Generating Chinese Poetry from Images via Concrete and Abstract Information**
-*Yusen Liu, **Dayiheng Liu**, Jiancheng Lv, Yongsheng Sang*
+*Yusen Liu, **Dayiheng Liu**, Jiancheng Lv, Yongsheng Sang*  
 International Joint Conference on Neural Networks. **IJCNN** 2020 [[arXiv]](https://arxiv.org/abs/2003.10773)
  
 4. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
