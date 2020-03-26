@@ -10,15 +10,19 @@ In progress [[arXiv]](https://arxiv.org/abs/2001.04063)[[code]](https://github.c
 
 2. **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
-Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1905.12304)[[cite]](https://dayihengliu.github.io/publications/liu19style.bib)[[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer) 
+Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1905.12304)[[cite]](https://dayihengliu.github.io/publications/liu19style.bib)[[code]](https://github.com/dayihengliu/Fine-Grained-Style-Transfer)[[poster]](https://dayihengliu.github.io/talks/AAAI20Poster.pdf) 
 
 3. **Deep Poetry: A Chinese Classical Poetry Generation System**  
 *Yusen Liu\*, **Dayiheng Liu**\* (equal contribution), Jiancheng Lv*  
- Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1911.08212)[[video]](https://youtu.be/jD1R_u9TA3M)
+ Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1911.08212)[[video]](https://youtu.be/jD1R_u9TA3M)[[poster]](https://dayihengliu.github.io/talks/AAAI20Demo.pdf)
+ 
+4. **Generating Chinese Poetry from Images via Concrete and Abstract Information**
+*Yusen Liu, **Dayiheng Liu**, Jiancheng Lv, Yongsheng Sang*
+International Joint Conference on Neural Networks. **IJCNN** 2020 [[arXiv]](https://arxiv.org/abs/2003.10773)
  
 4. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)  
+Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
 
 5. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
