@@ -3,6 +3,8 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Apr 4, 2020, the following paper: **RikiNet: Reading Wikipedia Pages for Natural Question Answering** was accepted to the **ACL 2020**. 
+
 - Mar 21, 2020, the following paper: **Generating Chinese Poetry from Images via Concrete and Abstract Information** was accepted to the **IJCNN 2020**. 
 
 - Nov 20, 2019, the demo video of the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** (AAAI 2020 demo) are available at [here](https://youtu.be/jD1R_u9TA3M).
@@ -31,7 +33,7 @@ author_profile: true
 
 - May 06, 2019, the following paper: **Mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation** was accepted to the **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
 
-- April 15, 2019, the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** was accepted to the **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
+- Apr 15, 2019, the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** was accepted to the **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
 
 Demos
 ------
