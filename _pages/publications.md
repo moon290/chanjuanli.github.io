@@ -22,7 +22,7 @@ Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXi
 In progress [[arXiv]](https://arxiv.org/abs/2001.04063)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
  
 5. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
-***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*
+***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
 [[arXiv]](https://arxiv.org/abs/2004.03875)
  
 6. **Generating Chinese Poetry from Images via Concrete and Abstract Information**  
