@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2020   
+
 1. **RikiNet: Reading Wikipedia Pages for Natural Question Answering**  
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*  
 Association for Computational Linguistics. **ACL** 2020
