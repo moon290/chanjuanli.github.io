@@ -29,9 +29,9 @@ Under Review [[arXiv]](https://arxiv.org/abs/2004.03875)
 *Yusen Liu, **Dayiheng Liu**, Jiancheng Lv, Yongsheng Sang*  
 International Joint Conference on Neural Networks. **IJCNN** 2020 [[arXiv]](https://arxiv.org/abs/2003.10773)
 
-7. **Let's be Humorous: Knowledge Enhanced Humor Generation**
+7. **Let's be Humorous: Knowledge Enhanced Humor Generation**  
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*
-Association for Computational Linguistics, Student Reaserch Workshop. **ACL** 2020 [[arXiv]](https://arxiv.org/abs/2004.14560)  
+Association for Computational Linguistics, Student Reaserch Workshop. **ACL** 2020 [[arXiv]](https://arxiv.org/abs/2004.13317)  
  
 8. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
