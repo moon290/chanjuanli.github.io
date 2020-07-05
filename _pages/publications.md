@@ -31,7 +31,7 @@ International Joint Conference on Neural Networks. **IJCNN** 2020 [[arXiv]](http
 
 7. **Let's be Humorous: Knowledge Enhanced Humor Generation**  
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*  
-Association for Computational Linguistics, Student Reaserch Workshop. **ACL** 2020 [[arXiv]](https://arxiv.org/abs/2004.13317)  
+Under Review [[arXiv]](https://arxiv.org/abs/2004.13317)  
  
 8. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
@@ -39,7 +39,7 @@ Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.
 
 9. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[code]](https://github.com/dayihengliu/BFGAN)  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[paper]](https://ieeexplore.ieee.org/document/8846084)  
 
 10. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
