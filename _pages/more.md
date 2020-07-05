@@ -3,7 +3,6 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
-- Apr 18, 2020, the following paper: **Let's be Humorous: Knowledge Enhanced Humor Generation** was accepted to the **ACL SRW 2020**. 
 
 - Apr 4, 2020, the following paper: **RikiNet: Reading Wikipedia Pages for Natural Question Answering** was accepted to the **ACL 2020**. 
 
