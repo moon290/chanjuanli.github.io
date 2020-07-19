@@ -14,11 +14,12 @@ My publications can be found [here](https://dayihengliu.github.io/publications/)
 My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
 ([More about me...](https://dayihengliu.github.io/more/))  
 
-**Interests:** Natural language generation, including controllable text generation, VAE for text generation, GAN for text generation, text generation in arbitrary order, and applications in natural language generation.
+**Interests:** 
+Natural language generation (NLG), including controllable text generation, pre-trained text generation model, VAE for text generation, GAN for text generation, text generation in arbitrary order, long document understanding and generation, and applications in natural language generation.
 
 Experience
 ------
-+ 2019.6 - present, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
++ 2019.6 - 2020.7, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
   - Team leader: Nan Duan
   - Mentor: Yeyun Gong
   
