@@ -3,6 +3,13 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Sep 15, 2020, the following paper: **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space** was accepted to the **EMNLP 2020**. 
+
+- Sep 15, 2020, the following paper: **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation** was accepted to the **EMNLP 2020**. 
+
+- Sep 15, 2020, the following paper: **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training** was accepted to the findings of **EMNLP 2020**. 
+
+- Sep 1, 2020, the following paper: **Exploration on the Generation of Chinese Palindrome Poetry** was accepted to the **ICONIP 2020**. 
 
 - Apr 4, 2020, the following paper: **RikiNet: Reading Wikipedia Pages for Natural Question Answering** was accepted to the **ACL 2020**. 
 
