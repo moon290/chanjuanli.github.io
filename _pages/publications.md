@@ -14,7 +14,7 @@ Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [
 
 3. **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
 *Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\* (equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing, Findings of **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2001.04063)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
+Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2001.04063)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
  
 4. **RikiNet: Reading Wikipedia Pages for Natural Question Answering**  
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*  
