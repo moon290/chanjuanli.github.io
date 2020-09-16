@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
-***Dayiheng Liu**, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
+***Dayiheng Liu***, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
 Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020
 
 2. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
