@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020
+Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2010.01475)
 
 2. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
@@ -40,43 +40,46 @@ Neural Computing and Applications. **NCAA** 2020
 *Liao Chen, Zhichen Lai, **Dayiheng Liu**, Jiancheng Lv and Yongsheng Sang*  
 International Conference on Neural Information Processing. **ICONIP** 2020  
 
-10. **Let's be Humorous: Knowledge Enhanced Humor Generation**  
+10. **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
+*Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
+Under Review [[arXiv]](https://arxiv.org/abs/2009.11473) 
+
+11. **Let's be Humorous: Knowledge Enhanced Humor Generation**  
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*  
 Under Review [[arXiv]](https://arxiv.org/abs/2004.13317)  
  
-11. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
+12. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
 Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
 
-12. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
+13. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)[[cite]](https://dayihengliu.github.io/publications/liu18bfgan.bib)[[paper]](https://ieeexplore.ieee.org/document/8846084)  
 
-13. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
+14. **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1905.10072)[[cite]](https://dayihengliu.github.io/publications/liu19vae.bib)[[code]](https://github.com/dayihengliu/Mu-Forcing-VRAE)
 
-14. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
+15. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
-ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[demo]](http://translation.dicalab.cn/ancient)      
-   
-15. **A Multi-Modal Chinese Poetry Generation Model**  
+ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[demo]](http://translation.dicalab.cn/ancient)       
+16. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
 International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[cite]](https://dayihengliu.github.io/publications/liu18multi.bib)[[demo](https://poem.dicalab.cn/)][[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
 
-16. **Deep learning-based automatic downbeat tracking: a brief review**  
+17. **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
 **Multimedia Systems** 2019 [[arXiv]](https://arxiv.org/pdf/1906.03870.pdf)
 
-17. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
+18. **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
 IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018 [[paper]](https://ieeexplore.ieee.org/document/8482485)[[samples]](https://drive.google.com/open?id=10vAC7MweWwjdWohMe64m2imia1DBCq8o) 
 
-18. **Method to Improve the Performance of Restricted Boltzmann Machines**  
+19. **Method to Improve the Performance of Restricted Boltzmann Machines**  
 *Jing Yin, Qingyu Mao, **Dayiheng Liu**, Yong Xu, Jiancheng Lv*  
 International Symposium on Neural Networks, **ISNN** 2018 [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_14) 
 
-19. **A Neural Words Encoding Model**  
+20. **A Neural Words Encoding Model**  
 ***Dayiheng Liu***, *Jian Cheng Lv, Xiaofeng Qi, Jiangshu Wei*  
 International Joint Conference on Neural Networks. **IJCNN** 2016 [[paper]](https://ieeexplore.ieee.org/document/7727245)[[poster]](https://dayihengliu.github.io/talks/IJCNN16.pdf)  
 
